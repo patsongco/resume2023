@@ -1,0 +1,213 @@
+{
+  "main": {
+    "name":"Patrick Songco",
+    "description":"Computer Science graduate interested in Data Science and Blockchain Technology",
+    "image":"profilepic.jpg",
+    "bio":"Analytically minded recent Computer Science graduate with a desire for knowledge and problem solving. My professional goals are to apply the understanding and methodologies I have accumulated to real world applications and continually grow my skillset in Data Science and Machine Learning.",
+    "email": "pat.songco@gmail.com",
+    "phone": "+61 421779245",
+    "github":"https://github.com/patsongco",
+    "linkedin":"https://www.linkedin.com/in/patsongco/",
+    "address":{
+      "city":"Sydney",
+      "state":"NSW"
+    },
+    "website": "https://patsongco.github.io/resume/",
+    "resumedownload":"files/PATRICK SONGCO CV.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/patsongco/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/songco_/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/patsongco",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Working on projects in industry and university, I have developed the skills required for model development & deployment, frontend/backend development, as well as the tools to navigate the various functions and concepts required to analyse large volumes of data to discover insightful trends.",
+    "education":[
+      {
+        "school":"University of Technology Sydney ",
+        "degree":"Bachelor of Computer Science (Honours)",
+        "major": "Artificial Intelligence and Data Analytics",
+        "graduated":"November 2021",
+        "honours": "Honours Project: Studying the effect of Graph Embedding methods on Knowledge Graph Attention Networks for Recommendation",
+        "description":{
+          "first": "First Class Honours and University Medal",
+          "second": "2022 Dean’s List Award for Information Technology",
+          "third": "2021 Dean’s List Award for Information Technology",
+          "fourth": "2020 Dean’s List Award for Information Technology",
+          "fifth": "2019 Dean’s Merit List Award for Information Technology",
+          "sixth": "6.86 GPA/91.43 WAM"
+        }
+      },
+      {
+        "school":"University of New South Wales ",
+        "degree":"Bachelor of Science",
+        "major": "Pharmacology",
+        "graduated":"December 2012",
+        "description":{
+
+        }
+      }
+    ],
+    "volunteering":[
+      {
+        "company":"Projects Abroad",
+        "placement":"Teaching Placement – The Sacred Valley, Peru ",
+        "date":"Sept - Nov 2015",
+        "description":"Working alongside teachers developing lesson plans to teach English to primary school children"
+      }
+    ],
+    "work":[
+      {
+        "company":"Commonwealth Bank",
+        "title":"RBS Analytics Graduate ",
+        "years":"February 2022 - Present",
+        "description":{
+          "first": "Risk and Remediation Data Science Team. Responsibilities included:",
+          "second": "Successful implementation of a complaints model currently being used in production",
+          "third": "Model development, testing, deployment and documentation",
+          "fourth": "Feature engineering using Natural Language Processing",
+          "fifth": "Liaising with relevant stakeholders to obtain clean and useful data"
+        },
+        "description2":{
+          "first2": "Currently working in the Digital Fraud Analytics Team. Responsibilities include:",
+          "second2": "Successfully developed a reporting dashboard providing key stakeholders with a view of the performance of our Rule Suite",
+          "third2": "Tableau dashboard development, testing, deployment and documentation",
+          "fourth2": "Developing and scheduling SAS scripts",
+          "fifth2": "Ad hoc Fraud Rule Performance analysis for various stakeholders"
+        }
+      },
+      {
+        "company":"Ramrakha Surgery",
+        "title":"Practice Manager ",
+        "years":"January 2016 - February 2022",
+        "description":{
+          "first": " The role involved establishing processes and implementing standards in order to provide optimum patient experience. Responsibilities include:",
+          "second": "Driving the accreditation process by ensuring all standards are maintained consistent with RACGP and AGPAL accreditation standards",
+          "third": "Creating SQL scripts to identify operational efficiencies and targeted patient management",
+          "fourth": "Ensure ongoing financial control and profitability for business growth",
+          "fifth": "Provide professional support to the practitioner and allied health professionals, including management of rostering GP’s and practice staff, appointment bookings, and billings",
+          "sixth": "Practice billings, receivables, liaising with Medicare when required"
+        },
+        "description2":{
+        }
+      },
+      {
+        "company":"University of Technology Sydney",
+        "title":"Research Assistant ",
+        "years":"July 2021 - December 2021",
+        "description":{
+          "first": "Working with an industry partner, the role involved building and testing software to aid in Data Quality Management. Responsibilities include:",
+          "second": "Backend and Frontend application development using a Django/React framework",
+          "third": "Producing documentation for the usage and future development of the application",
+          "fourth": "Collaborating with UTS and industry partner stakeholders to ensure the timely delivery of our objectives",
+          "fifth": "Providing recommendations on current research avenues to integrate a machine learning framework in future iterations of the application"
+        },
+        "description2":{
+        }
+      },
+      {
+        "company":"Commonwealth Bank",
+        "title":"RBS Analytics Summer Intern ",
+        "years":"November 2020 - February 2021",
+        "description":{
+          "first": "As an Analytics Intern, I was able to successfully own and deliver a “Next Best Conversation” module in the Bank’s Customer Engagement Engine (CEE). This process involved:",
+          "second": "Project initiation – requirements gathering from various stakeholders in the Bank",
+          "third": "Analysis of targeted customer segments via SQL database queries",
+          "fourth": "Production of project brief and details of implementation",
+          "fifth": "Liaising with Delivery, Product, Digital, Marketing, Channels and Leadership Team to obtain required approvals",
+          "sixth": "Project handover to Delivery for project build",
+          "seventh": "Pre-Verification Testing and Business Verification Testing to ensure the projected customers were contacted",
+          "eighth": "In addition, I was given the chance to present to Leaders in the organisation, network with Data Scientists to understand their scope within the context of the organisation and contribute to planning off-site events for my team"
+        },
+        "description2":{
+        }
+      },
+      {
+        "company":"Ramrakha Surgery",
+        "title":"Clinical Administrative Assistant ",
+        "years":"September 2014 - January 2016",
+        "description":{
+          "first": "The role involves providing assistance to the Doctor in consultations as well as ensuring the smooth running of the surgery. Responsibilities include:",
+          "second": "Opening, setting up and closing the surgery",
+          "third": "Rapidly assessing patients to determine what level of care is needed",
+          "fourth": "Undertaking basic examinations under supervision of the Doctor: Recording patients' blood pressure, blood glucose, INR, etc",
+          "fifth": "Training in CPR, Triage, Infection control, and autoclave",
+          "sixth": "Ensuring effective cold chain management",
+          "seventh": "Liaising with other medical practices, hospitals and pharmacies for patient"
+        },
+        "description2":{
+        }
+      }
+    ],
+    "skills":[
+      {
+        "name":"Machine Learning Model Development",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"95%"
+      },
+      {
+        "name":"SQL",
+        "level":"90%"
+      },
+      {
+        "name":"SAS",
+        "level":"60%"
+      },
+      {
+        "name":"PyTorch",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Tableau",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Honours Project",
+        "image":"Honours Picture.jpg",
+        "url":"files/31428 Honours Project Report.pdf"
+      },
+      {
+        "title":"Data Quality Assessment Tool",
+        "image":"DQAT.jpg",
+        "url":""
+      },
+      {
+        "title":"Explainable Bot Detection",
+        "image":"capstone_final_presentation.jpg",
+        "url":"https://github.com/patsongco/41004-AI-Analytics-Capstone-Project"
+      },
+      {
+        "title":"CART decision tree algorithm",
+        "image":"CART_decision_tree.jpg",
+        "url":"https://github.com/patsongco/32005-Machine-Learning-Assessment-2"
+      }
+    ]
+  }
+}
